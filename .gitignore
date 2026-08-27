@@ -1,0 +1,6 @@
+slprj/
+**/slprj/
+*.autosave
+*.asv
+desktop.ini
+**/desktop.ini
